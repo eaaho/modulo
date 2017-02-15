@@ -1,0 +1,6 @@
+D:\dev\modulo\Mudulo\Mudulo\bin\Debug\Mudulo.exe.config
+D:\dev\modulo\Mudulo\Mudulo\bin\Debug\Mudulo.exe
+D:\dev\modulo\Mudulo\Mudulo\bin\Debug\Mudulo.pdb
+D:\dev\modulo\Mudulo\Mudulo\obj\Debug\Mudulo.csprojResolveAssemblyReference.cache
+D:\dev\modulo\Mudulo\Mudulo\obj\Debug\Mudulo.exe
+D:\dev\modulo\Mudulo\Mudulo\obj\Debug\Mudulo.pdb
